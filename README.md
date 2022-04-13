@@ -2,7 +2,7 @@
 
 Based on instructions on https://github.com/wallabag/wallabagger/issues/214
 
-## Prerequisites
+## Instructions
 
 - Download and install the latest Xcode from https://developer.apple.com/download/all/
 - Launch Xcode, go to Xcode > Preferences > Locations, select the latest version in Command Line Tools
