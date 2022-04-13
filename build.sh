@@ -1,4 +1,3 @@
-
 rm -rf ./build 2> /dev/null
 mkdir ./build && cd ./build
 wget https://github.com/wallabag/wallabagger/raw/master/wallabagger.crx
